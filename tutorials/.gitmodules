@@ -1,0 +1,15 @@
+[submodule "lib/glm"]
+	path = lib/glm
+	url = https://github.com/g-truc/glm
+[submodule "lib/glad"]
+	path = lib/glad
+	url = https://github.com/Dav1dde/glad
+[submodule "lib/glfw"]
+	path = lib/glfw
+	url = https://github.com/glfw/glfw
+[submodule "lib/stb"]
+	path = lib/stb
+	url = https://gitlab.cse.unsw.edu.au/COMP3421/stb-cmake
+[submodule "lib/chicken3421"]
+	path = lib/chicken3421
+	url = https://gitlab.cse.unsw.edu.au/COMP3421/chicken3421

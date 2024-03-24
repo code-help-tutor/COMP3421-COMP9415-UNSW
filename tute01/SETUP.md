@@ -1,0 +1,1 @@
+See [the OpenGL setup instructions](https://gitlab.cse.unsw.edu.au/simonhaddad/opengl_cmake_setup) if you haven't set up your environment.
